@@ -1,0 +1,45 @@
+.cardstyles{
+position: absolute;
+width: 229px;
+height: 181px;
+background: #FFFFFF;
+box-shadow: 0px 4px 7px rgba(34, 49, 125, 0.19);
+border-radius: 20px;
+}
+
+.graphbox1{
+left: 301px;
+top: 175px;
+}
+.graphbox3{
+left: 874px;
+top: 175px;
+}
+
+.graphbox4{
+
+left: 1177px;
+top: 175px;
+}
+
+.graphbox2{
+	left: 586px;
+top: 175px;
+}
+
+.heading{
+	margin-top:8%;
+	margin-left:20%;
+	 
+}
+
+.cardstyle2{
+   position:absolute;
+   margin-left:300px;
+   bottom:0;
+   width:78%;
+   height:45%;
+	background: #FFFFFF;
+    box-shadow: 0px 4px 7px rgba(34, 49, 125, 0.19);
+    border-radius: 20px;
+}

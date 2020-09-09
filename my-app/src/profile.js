@@ -17,6 +17,7 @@ class Profile extends React.Component {
 
         return ( <
             div className = "sidebar" >
+            
             <Avatarlogo /> <
             Watertank / >
             <

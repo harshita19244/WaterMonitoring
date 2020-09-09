@@ -275,3 +275,17 @@ right: 97.4%;
 top: 507px;
 
 }	
+
+.tankdashboardhead{
+position: absolute;
+width: 378px;
+height: 38px;
+left: 296px;
+top: 58px;
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+color: #504F86;
+}
